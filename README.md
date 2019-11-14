@@ -16,6 +16,7 @@
 - [World Administrative Areas](https://www.gadm.org/data.html)
 - [U.N. Second Admin. Level Boundaries](https://www.unsalb.org/)
 - [World Borders Dataset - kml based, has JS API](http://thematicmapping.org/downloads/world_borders.php)
+- [Military Grid Reference Systems](https://earth-info.nga.mil/GandG/update/index.php?dir=coordsys&action=coordsys#tab_grid-layers-data)
 
 ### Multi-Feature
 - [Natural Earth](https://www.naturalearthdata.com/)
