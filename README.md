@@ -1,11 +1,7 @@
-# free_dollars_data
-Free data sources
- 
-- mostly geospatial 
-- U.S. centric for now
+# Geospatial data that costs free dollars
+Free data sources, mostly geospatial, U.S.-centric for now
 
 ### Climate Data
-
 - [NOAA historical climate data](https://www.ncdc.noaa.gov/cdo-web/search)
 
 ### Topo Data
