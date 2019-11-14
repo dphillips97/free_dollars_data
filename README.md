@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Useful Open-Source Data
 
 *Free data sources, mostly geospatial*
@@ -7,7 +6,6 @@
 # Geospatial data that costs free dollars
 Free data sources, mostly geospatial, U.S.-centric for now
 
->>>>>>> 513635cad1626bb3d5ae49fa5fff03874d8f3b0d
 ### Climate Data
 - [NOAA historical climate data](https://www.ncdc.noaa.gov/cdo-web/search)
 
@@ -41,9 +39,6 @@ Free data sources, mostly geospatial, U.S.-centric for now
 
 #### Texas
 - [Texas Natural Resources Information System](https://data.tnris.org/)
-<<<<<<< HEAD
 
 
 ![U.S. Watershed Hierarchy](wbd.png)
-=======
->>>>>>> 513635cad1626bb3d5ae49fa5fff03874d8f3b0d
