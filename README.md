@@ -1,6 +1,9 @@
 # Open Source Geospatial data that costs free dollars
 *Free data sources, mostly geospatial*
 
+### Aerial/Satellite Imagery
+- [7 Free Sat Imagery Sources (2019)](https://eos.com/blog/7-top-free-satellite-imagery-sources-in-2019/)
+
 ### Climate Data
 - [NOAA historical climate data](https://www.ncdc.noaa.gov/cdo-web/search)
 
